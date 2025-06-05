@@ -1,2 +1,3 @@
-# bookbot2
-boot dot dev project - refresher run
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
